@@ -1,0 +1,61 @@
+const es = {
+    translation : 'Traducción',
+    speaks: ' habla ',
+    back: 'Regresa',
+    wantsToLearn: ' y quiere aprender ',
+    sayHi: 'Di hola!',
+    next: 'Siguiente',
+    holdToRecord: 'Mantenga para grabar',
+    typeMessage: 'Escribe un mensaje en',
+    or: 'o',
+    messageCopied: 'Mensaje Copiado',
+    voiceNotClear: 'Lo siento, tu voz no fue clara, inténtalo de nuevo',
+    translationCopied: 'Traducción Copiada',
+    noPermissions: 'No se Otorgaron Permisos',
+    phraseTitle: 'Elige una frase para decirle a ',
+    reportingDescription: "Please give us a description of what happened",
+    send: 'Enviar',
+    yes: 'Si',
+    no: 'No',
+    areYouSureBlock: 'Estás seguro de que quieres bloquear a este usuario?',
+    areYouSureUnblock: '¿Estás seguro de que deseas desbloquear a este usuario?',
+    reportUser: 'Reportar Usuario',
+    blockUser: 'Bloquear Usuario',
+    unblockUser: 'Desbloquear Usuario',
+    more: 'mostrar más',
+    hello: 'hola'
+}
+
+const en = {
+    translation: 'Translation',
+    messageCopied: 'Message Copied',
+    translationCopied: 'Translation Copied',
+    speaks: ' speaks ',
+    wantsToLearn: ' and wants to learn ',
+    sayHi: 'Say hello!',
+    next: 'Next',
+    back: 'Back',
+    holdToRecord: 'Hold to record',
+    noPermissions: 'No Permissions Granted',
+    typeMessage: 'Type a message in',
+    voiceNotClear: 'Sorry your voice was not clear, try again',
+    or: 'or',
+    phraseTitle: 'Pick a phrase to say to ',
+    reportingDescription: "Please give us a description of what happened",
+    send: 'Send',
+    yes: 'Yes',
+    no: 'No',
+    userIsBlocked: 'User is blocked, unblock to continue',
+    areYouSureBlock: 'Are you sure you want to block this user?',
+    areYouSureUnblock: 'Are you sure you want to unblock this user?',
+    reportUser: 'Report User',
+    blockUser: 'Block User',
+    unblockUser: 'Unblock User',
+    more: 'show more',
+    hello: 'hello'
+}
+
+export const chatDetailedLanguages: any = {
+    en,
+    es
+}

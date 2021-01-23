@@ -1,0 +1,1 @@
+export { default as CreateAccountPassword } from "./create-account-password";

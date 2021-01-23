@@ -1,0 +1,1 @@
+export { default as ProfileDetailed } from "./profile-detailed";

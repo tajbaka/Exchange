@@ -1,0 +1,4 @@
+production: ssh -i "Exchange.pem" ubuntu@ec2-18-189-253-90.us-east-2.compute.amazonaws.com
+
+development: ssh -i "Exchange.pem" ubuntu@ec2-3-17-138-247.us-east-2.compute.amazonaws.com
+

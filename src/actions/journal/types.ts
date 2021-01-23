@@ -1,0 +1,9 @@
+export const UPDATE_JOURNAL_TRANSLATE_CONTENT = "update-translate-text";
+export const UPDATE_JOURNAL_TRANSLATION_LOADING = "update-translation-loading";
+export const UPDATE_JOURNAL_CONTENT = "update-content";
+export const UPDATE_IS_JOURNAL_SWITCHED = "update-is-switched";
+export const UPDATE_JOURNAL_VOICE_MESSAGE_ERROR = "update-voice-message-error";
+export const UPDATE_JOURNAL_LIST = "update-journal-list";
+export const UPDATE_SELECTED_START_DATE_NOTIFIED = "update-selected-start-date-notified";
+export const UPDATE_JOURNAL_ENTRY_STATEMENT = "update-journal-entry-statement";
+export const UPDATE_JOURNAL_FIRST_ENTRY = "update-journal-first-entry";
